@@ -16,6 +16,6 @@
 - Interdisciplinary research documentation
 ## Files Included
 - Baby_Schema.ipynb (notebook)
-- baby_faces (Images of the babies used in project)
+
 - Results (validation metrics)
 - Baby_Schema_Presentation (A presentation I created on Baby Schema)
