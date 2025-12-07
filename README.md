@@ -16,6 +16,5 @@
 - Interdisciplinary research documentation
 ## Files Included
 - Baby_Schema.ipynb (notebook)
-
 - Results (validation metrics)
 - Baby_Schema_Presentation (A presentation I created on Baby Schema)
