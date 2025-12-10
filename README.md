@@ -9,7 +9,7 @@
 - Baseline MAE: 0.3416
 - Best model MAE: 0.2805 (α = 100)
 - Indicates that ResNet18 features encode baby-schema cues in a predictable way
-- ResNet18 embeddings carry baby-schema signal despite small N (Good to know!)
+- ResNet18 embeddings carry baby-schema signal despite lack of large data set
 ## Skills
 - Computer Vision (PyTorch, ResNet)
 - Linear Models (Ridge, cross-validation)
