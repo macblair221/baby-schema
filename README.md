@@ -19,7 +19,7 @@
 - Baby_Schema.ipynb (notebook)
 - Baby_Schema_Presentation (A presentation I created on Baby Schema)
 
-
+---
 
 My “Baby Schema” project is based on Konrad Lorenz’s proposed Baby Schema and aims to identify levels of reported cuteness ratings in human infant faces. I used ResNet18, an image classification model from PyTorch. ResNet is a family of convolutional neural network (CNN) architectures designed for image classification. CNNs are deep learning models that are effective at recognizing edges and textures, which works well for detecting subtle differences in infants’ facial features.
 I aim to extend my research and development by accumulating a larger dataset of human infant faces. Additionally, I would like to eventually introduce other animal species so the model can learn the differences between juvenile and adult animal features.
