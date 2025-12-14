@@ -27,7 +27,7 @@ My goal is to create a model that becomes highly accurate at detecting physical 
 Despite the small size of the dataset, the ResNet18 model performed surprisingly well, achieving a low mean absolute error, which quantifies the average absolute difference between the model’s predictions and the actual data points.
 
 ###  Citations
---
+---
 Nittono Hiroshi, Ohashi Akane, Komori Masashi. Creation and Validation of the Japanese Cute Infant Face (JCIF) Dataset, Frontiers in Psychology. Volume 13 - 2022, 2022
 https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.819428. 10.3389/fpsyg.2022.819428. 1664-1078
 
