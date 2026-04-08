@@ -1,5 +1,5 @@
 ## Baby Cuteness Prediction - A ML and Cognitive Science Project
- This project explores whether infant cuteness ratings can be predicted from image features. Building on research on baby schema—a set of infantile facial characteristics that elicit positive emotional and caregiving responses—I applied a computer vision pipeline to model human judgments.
+ This project explores whether infant cuteness ratings can be predicted from image features. Building on research on baby schema, a set of infantile facial characteristics that elicit positive emotional and caregiving responses, I applied a computer vision pipeline to model human judgments.
  ## Methods
 - Used 55 standardized infant images from the Japanese Cute Infant Face Dataset
 - Extracted 512-dimensional embeddings using pretrained ResNet18
